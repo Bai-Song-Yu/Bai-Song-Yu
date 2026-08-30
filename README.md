@@ -1,7 +1,21 @@
-### 👋你好，我是白松鱼
+# 👋你好，我是白松鱼
+>在各方面都称得上是小白
 
-![最完美的作品](the_best.jpg)
-~~~我觉得塞这玩意看起来剧引人注目，绝不是因为我懒得调~~~
+<img arc="the_best.jpg" alt="旷世巨作" width="200" height="200">
+
+***
+
+## 关于我
+- 喜欢学习新知识
+- 比起理论更喜欢实践，~~虽然经常因此栽跟头。~~
+- 对计算机知识很感兴趣
+ 
+***
+## 个人爱好
+- 打游戏
+- 看小说
+- 听音乐
+
 
 <!--
 **Bai-Song-Yu/Bai-Song-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
