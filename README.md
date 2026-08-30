@@ -1,6 +1,7 @@
 ### 👋你好，我是白松鱼
 
 ![最完美的作品](the_best.jpg)
+~~~我觉得塞这玩意看起来剧引人注目，绝不是因为我懒得调~~~
 
 <!--
 **Bai-Song-Yu/Bai-Song-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
