@@ -1,7 +1,7 @@
 # 👋你好，我是白松鱼
 >在各方面都称得上是小白
 
-<img arc="[the_best.jpg](https://github.com/Bai-Song-Yu/Bai-Song-Yu/blob/bab00ce05b5388196b4ea182ceb423e7d78c3d71/pictures/the_best.jpg)" alt="best">
+<img src="pictures/the_best.jpg" alt="best" hight = "200" width = "200">
 
 ***
 
